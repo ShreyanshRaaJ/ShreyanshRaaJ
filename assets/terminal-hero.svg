@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Shreyansh Raj — cybersecurity and networking learner</title>
+  <desc id="desc">A dark terminal window with neon green and cyan accents, introducing Shreyansh Raj as a cybersecurity enthusiast, networking explorer, C++ developer, and aspiring security engineer.</desc>
+  <rect width="1200" height="360" rx="24" fill="#070B0F"/>
+  <path d="M24 72H1176M80 0V360M1120 0V360" stroke="#16242B" stroke-width="1"/>
+  <rect x="34" y="28" width="1132" height="304" rx="18" fill="#0B1117" stroke="#20313A" stroke-width="2"/>
+  <path d="M34 78H1166" stroke="#20313A" stroke-width="2"/>
+  <circle cx="63" cy="53" r="7" fill="#FF5F57"/>
+  <circle cx="87" cy="53" r="7" fill="#FEC02F"/>
+  <circle cx="111" cy="53" r="7" fill="#39FF88"/>
+  <text x="145" y="59" fill="#7B8B94" font-family="Consolas, 'Courier New', monospace" font-size="16">shreyansh@lab: ~</text>
+  <text x="83" y="128" fill="#39FF88" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="3">CYBERSECURITY  /  NETWORKING  /  SYSTEMS</text>
+  <text x="80" y="194" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Shreyansh Raj</text>
+  <text x="83" y="236" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="20">Aspiring Security Engineer · C/C++ Developer</text>
+  <text x="83" y="278" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="17">Learning network security, Linux, packet analysis, and system programming.</text>
+  <text x="83" y="313" fill="#39FF88" font-family="Consolas, 'Courier New', monospace" font-size="16">$ build --learn --repeat</text>
+  <g fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.84">
+    <path d="M900 135L1015 108L1080 172L1038 254L935 265L880 198Z"/>
+    <path d="M900 135L1038 254M1015 108L935 265M880 198L1080 172" opacity="0.5"/>
+    <circle cx="900" cy="135" r="8" fill="#070B0F"/>
+    <circle cx="1015" cy="108" r="8" fill="#070B0F"/>
+    <circle cx="1080" cy="172" r="8" fill="#070B0F"/>
+    <circle cx="1038" cy="254" r="8" fill="#070B0F"/>
+    <circle cx="935" cy="265" r="8" fill="#070B0F"/>
+    <circle cx="880" cy="198" r="8" fill="#070B0F"/>
+  </g>
+  <circle cx="981" cy="185" r="22" fill="#0B1117" stroke="#39FF88" stroke-width="2"/>
+  <path d="M971 185h20m-10-10v20" stroke="#39FF88" stroke-width="2"/>
+</svg>

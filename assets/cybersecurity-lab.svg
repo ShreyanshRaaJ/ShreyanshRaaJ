@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Cybersecurity learning lab dashboard</title>
+  <desc id="desc">Four tool panels: Kali Linux for Linux and security fundamentals, VMware Workstation Pro for isolated virtual machines, Wireshark for packet and protocol inspection, and Cisco Packet Tracer for network simulation.</desc>
+  <rect width="1200" height="430" rx="22" fill="#070B0F"/>
+  <rect x="20" y="20" width="1160" height="390" rx="18" fill="#0B1117" stroke="#20313A" stroke-width="2"/>
+  <text x="54" y="68" fill="#39FF88" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2">LOCAL CYBERSECURITY LAB</text>
+  <text x="54" y="100" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="16">A virtual learning environment for safe, hands-on practice</text>
+  <rect x="989" y="45" width="150" height="34" rx="17" fill="#10251C" stroke="#245D3D"/>
+  <circle cx="1010" cy="62" r="5" fill="#39FF88"/>
+  <text x="1024" y="68" fill="#B8F5D0" font-family="Consolas, 'Courier New', monospace" font-size="12">LEARNING MODE</text>
+
+  <g>
+    <rect x="48" y="128" width="264" height="242" rx="14" fill="#0E171E" stroke="#20313A"/>
+    <circle cx="84" cy="171" r="20" fill="#112B35" stroke="#00E5FF"/>
+    <text x="75" y="177" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700">$_</text>
+    <text x="62" y="222" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Kali Linux</text>
+    <text x="62" y="254" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">Linux command line</text>
+    <text x="62" y="276" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">and security fundamentals</text>
+    <path d="M62 316h62" stroke="#00E5FF" stroke-width="3"/>
+    <text x="62" y="343" fill="#6F858E" font-family="Consolas, 'Courier New', monospace" font-size="12">VM PRACTICE</text>
+  </g>
+  <g>
+    <rect x="336" y="128" width="264" height="242" rx="14" fill="#0E171E" stroke="#20313A"/>
+    <circle cx="372" cy="171" r="20" fill="#10251C" stroke="#39FF88"/>
+    <path d="M361 166l11-7 11 7v12l-11 7-11-7zM372 159v13m-11-6 11 6 11-6" fill="none" stroke="#39FF88" stroke-width="1.6"/>
+    <text x="350" y="222" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">VMware Workstation Pro</text>
+    <text x="350" y="254" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">Virtual machines for</text>
+    <text x="350" y="276" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">isolated lab practice</text>
+    <path d="M350 316h62" stroke="#39FF88" stroke-width="3"/>
+    <text x="350" y="343" fill="#6F858E" font-family="Consolas, 'Courier New', monospace" font-size="12">WINDOWS HOST</text>
+  </g>
+  <g>
+    <rect x="624" y="128" width="264" height="242" rx="14" fill="#0E171E" stroke="#20313A"/>
+    <circle cx="660" cy="171" r="20" fill="#112B35" stroke="#00E5FF"/>
+    <path d="M651 160h13l7 7v15h-20zM664 160v8h7M655 173h11m-11 5h8" fill="none" stroke="#00E5FF" stroke-width="1.6"/>
+    <text x="638" y="222" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Wireshark</text>
+    <text x="638" y="254" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">Packet capture and</text>
+    <text x="638" y="276" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">protocol inspection</text>
+    <path d="M638 316h62" stroke="#00E5FF" stroke-width="3"/>
+    <text x="638" y="343" fill="#6F858E" font-family="Consolas, 'Courier New', monospace" font-size="12">TRAFFIC ANALYSIS</text>
+  </g>
+  <g>
+    <rect x="912" y="128" width="240" height="242" rx="14" fill="#0E171E" stroke="#20313A"/>
+    <circle cx="948" cy="171" r="20" fill="#10251C" stroke="#39FF88"/>
+    <path d="M940 160h16m-8 0v8m-10 0h20m-15 0v10m10-10v10m-10 0h-6m16 0h-6" fill="none" stroke="#39FF88" stroke-width="1.6"/>
+    <circle cx="938" cy="160" r="2" fill="#39FF88"/>
+    <circle cx="958" cy="160" r="2" fill="#39FF88"/>
+    <circle cx="933" cy="178" r="2" fill="#39FF88"/>
+    <circle cx="963" cy="178" r="2" fill="#39FF88"/>
+    <text x="926" y="222" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Cisco Packet Tracer</text>
+    <text x="926" y="254" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">Network topology</text>
+    <text x="926" y="276" fill="#9DAAB2" font-family="Segoe UI, Arial, sans-serif" font-size="14">building and simulation</text>
+    <path d="M926 316h62" stroke="#39FF88" stroke-width="3"/>
+    <text x="926" y="343" fill="#6F858E" font-family="Consolas, 'Courier New', monospace" font-size="12">NETWORK LAB</text>
+  </g>
+</svg>
